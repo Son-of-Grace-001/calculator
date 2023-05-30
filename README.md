@@ -1,1 +1,1 @@
-# calculator
+This calculator marks the first project of my HTML,CSS and JAVASCRIPT
